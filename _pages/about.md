@@ -12,17 +12,12 @@ Hello, I am Mohamed Hedi Elfkir (you can call me Hedi). I am a Master's student 
 During my bachelor’s degree, I worked in the [Hacettepe University Computer Vision Laboratory](https://vision.cs.hacettepe.edu.tr/) under the supervision of Professor [Erkut Erdem](https://web.cs.hacettepe.edu.tr/~erkut/) on Omnidirectional Images. During this time, I collaborated closely with Professor [Aykut Erdem](https://aykuterdem.github.io/) from the [KUIS AI Center](https://ai.ku.edu.tr/), [Nevrez Imamoglu](https://nevrez.github.io/) from the National Institute of Advanced Industrial Science and Technology (AIST), and Professor [Cagri Ozcinar](https://cagriozcinar.netlify.app/) from the Samsung Research Institute UK (SRUK).
 
 
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
 
----
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
+{% include base_path %}
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
