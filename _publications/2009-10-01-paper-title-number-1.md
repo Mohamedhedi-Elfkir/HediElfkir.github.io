@@ -16,10 +16,3 @@ paperurl: 'https://ieeexplore.ieee.org/document/10096750'
   Omnidirectional images, aka 360° images, can deliver immersive and interactive visual experiences. As their popularity has increased dramatically in recent years, evaluating the quality of 360° images has become a problem of interest since it provides insights for capturing, transmitting, and consuming this new media. However, directly adapting quality assessment methods proposed for standard natural images for omnidirectional data poses certain challenges. These models need to deal with very high-resolution data and implicit distortions due to the spherical form of the images. In this study, we present a method for no-reference 360° image quality assessment. Our proposed ST360IQ model extracts tangent viewports from the salient parts of the input omnidirectional image and employs a vision-transformers based module processing saliency selective patches/tokens that estimates a quality score from each viewport. Then, it aggregates these scores to give a final quality score. Our experiments on two benchmark datasets, namely OIQA and CVIQ datasets, demonstrate that as compared to the state-of-the-art, our approach predicts the quality of an omnidirectional image correlated with the human-perceived image quality.
 </p>
 
-## **Description**
-This project is about...
-
-## **Installation**
-To install, run the following commands:
-```bash
-# Command here
