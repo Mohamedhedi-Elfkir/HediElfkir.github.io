@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Introduction to machine learning"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Volunteer"
+permalink: /teaching/ACM_machine_learning
+venue: "Hacettepe, ACM"
+date: 2022-01-01
+location: "Ankara, Turkey"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Delivered a comprehensive lecture on the fundamentals of machine learning, covering essential general concepts and providing an overview of the field. The presentation is available for viewing [here](https://www.youtube.com/watch?v=5RG5GLD-AB4&t=27s).

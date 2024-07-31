@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "BBM202: Algorithms"
 collection: teaching
-type: "Workshop"
+type: "Lab"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Hacettepe , Computer Engineering"
+date: 2023-01-01
+location: "Ankara, Turkey"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Developed and curated a diverse set of algorithm practice problems to enhance learning and assessment for a cohort of over 100 students. [here](https://web.cs.hacettepe.edu.tr/~bbm202/)
