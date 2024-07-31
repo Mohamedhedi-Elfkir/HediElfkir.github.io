@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "ST360IQ: No-Reference Omnidirectional Image Quality Assessment with Spherical Vision Transformers"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/ST360
 date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'ICASSP 2023'
+# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://ieeexplore.ieee.org/document/10096750'
+# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In our study, we address the challenge of assessing the quality of 360° images, which are increasingly popular for their immersive and interactive experiences. Traditional methods for standard images are inadequate for this high-resolution, spherical data. We introduce a no-reference quality assessment method, ST360IQ, which extracts tangent viewports from important areas of the omnidirectional image. Using a vision-transformer-based module, it processes these selective patches to estimate a quality score for each viewport, then aggregates these scores into a final quality score. Our method, tested on OIQA and CVIQ benchmark datasets, shows superior correlation with human-perceived image quality compared to current state-of-the-art approaches.

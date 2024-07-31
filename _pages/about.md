@@ -12,7 +12,7 @@ Hello, I am Mohamed Hedi Elfkir (you can call me Hedi). I am a Master's student 
 During my bachelor’s degree, I worked in the [Hacettepe University Computer Vision Laboratory](https://vision.cs.hacettepe.edu.tr/) under the supervision of Professor [Erkut Erdem](https://web.cs.hacettepe.edu.tr/~erkut/) on Omnidirectional Images. During this time, I collaborated closely with Professor [Aykut Erdem](https://aykuterdem.github.io/) from the [KUIS AI Center](https://ai.ku.edu.tr/), [Nevrez Imamoglu](https://nevrez.github.io/) from the National Institute of Advanced Industrial Science and Technology (AIST), and Professor [Cagri Ozcinar](https://cagriozcinar.netlify.app/) from the Samsung Research Institute UK (SRUK).
 
 
-**Publications**
+# Publications
 {% include base_path %}
 
 {% for post in site.publications reversed %}
