@@ -9,6 +9,12 @@ paperurl: 'https://ieeexplore.ieee.org/document/10096750'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-![360° Image](images/ST360.png)
-Our study introduces ST360IQ, a no-reference quality assessment method that extracts and evaluates tangent viewports from key areas of the image using vision-transformer-based modules. This approach aggregates scores to produce a final quality assessment. Tested on OIQA and CVIQ datasets, ST360IQ shows improved correlation with human-perceived image quality compared to current methods.
+<div style="display: flex; align-items: center;">
+  <img src="images/ST360.png" alt="360° Image" style="width: 200px; margin-right: 20px;">
+  <p>
+    Our study introduces ST360IQ, a no-reference quality assessment method that extracts and evaluates tangent viewports from key areas of the image using vision-transformer-based modules. This approach aggregates scores to produce a final quality assessment. Tested on OIQA and CVIQ datasets, ST360IQ shows improved correlation with human-perceived image quality compared to current methods.
+  </p>
+</div>
+
+
 
