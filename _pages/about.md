@@ -1,15 +1,10 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hedi in a nutshell"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
-Canberk Baykal
-
-Hello. My name is Ahmet Canberk Baykal. I am a PhD student in Computer Science and an AI Researcher at University of Cambridge. Previously, I was a Graduate Researcher at and M.Sc. student KUIS AI Center. I have obtained my B.Sc. degree from Bilkent University, Electrical and Electronics Engineering Department and my M.S. degree from Koç University, Computer Science and Engineering.
-
-I am part of the Cambridge Open Reality and Visual AI Laboratory (CORE LAB), under supervision of Prof. Cengiz Öztireli. My research is focused at 3D Computer Vision. Previously, at KUIS AI Center, I worked on Machine Learning, Computer Vision and Natural Language Processing, specifically Text-Guided Image Generation and Manipulation. I was co-advised by Prof. Aykut Erdem and Prof. Deniz Yuret and I also worked closely with Prof. Erkut Erdem from Hacettepe University and Dr. Duygu Ceylan from Adobe Research.
+Hello, I am Mohamed Hedi Elfkir (you can call me Hedi). I am a Master's student in the [Department of Computer Engineering](https://w3.cs.bilkent.edu.tr/) at [Bilkent University](https://w3.bilkent.edu.tr/bilkent/). I am part of the LiRa Research Group under the supervision of Professor [Ozgur S. Oguz](https://oz-oguz.github.io/). I obtained my B.Sc. degree from the [Computer Engineering Department](https://www.cs.hacettepe.edu.tr/) at [Hacettepe University](https://www.hacettepe.edu.tr/).
